@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mak_lab_4</string>
+    <string name="Accelerometer">Accelerometer</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+    <string name="z">z</string>
+    <string name="magnetic">Magnetic</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">Lightning</string>
+    <string name="x_a">xa</string>
+    <string name="y_a">ya</string>
+    <string name="z_a">za</string>
+    <string name="brightness">Яркость</string>
+    <string name="compass">Компасс</string>
+</resources>
